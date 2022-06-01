@@ -1,5 +1,7 @@
 # unDraw Minimal webpage using grid and flex
 
+![alt text](https://github.com/vipulagr890/HTML---CSS-Mini-Project---HTML---CSS-Mini-Project---7ue3b1gastm8/blob/master/assets/webpage.png)
+
 Link : https://undrawclone.netlify.app/#
 
 ### The following application is part of HTML css mini project form newton school and

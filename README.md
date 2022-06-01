@@ -23,6 +23,14 @@ Link : https://undrawclone.netlify.app/#
 
 ### 1. padding on both side of the screen which changes based on size of the screen.
 ### 2. display of card which scales to 1.2x when hover if in computer or ontap on mobile
+### 3. added the icon on tab
 
 ![](https://github.com/vipulagr890/HTML---CSS-Mini-Project---HTML---CSS-Mini-Project---7ue3b1gastm8/blob/master/assets/Card%20feature.png)
 ### 3. responsiveness : which changes the the padding based on screen size and removing the header component and paragragh component based on screen size.
+
+
+BY : Vipul Agrawal
+
+
+Social media : 
+Linkedin : https://www.linkedin.com/in/vipul-agrawal-619099127/

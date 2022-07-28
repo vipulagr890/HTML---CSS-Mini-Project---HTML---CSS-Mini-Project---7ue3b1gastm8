@@ -10,7 +10,7 @@ Link : https://undrawclone.netlify.app/#
 ### created using HTML and CSS.
 
 
-### The project was choosen by inspired by the opensource website Undraw.com which provides free vector images
+### The project was inspired by the opensource website Undraw.com which provides free vector images
 ### and the design of the website is minimal with the good compination of flex and grid which makes it a good design project.
 ### Although the website can be used multiple display of images in particular grid order.
 

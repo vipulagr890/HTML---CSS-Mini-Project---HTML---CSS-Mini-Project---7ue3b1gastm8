@@ -7,7 +7,7 @@
 Link : https://undrawclone.netlify.app/#
 
 ### The following application is part of HTML css mini project form newton school and
-### created using HTML and Css.
+### created using HTML and CSS.
 
 
 ### The project was choosen by inspired by the opensource website Undraw.com which provides free vector images
